@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Auction maker<br>👯 I’m looking to collaborate on Open source projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React<br>⚡ Fun fact I am an Engineer!
+🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on Open source projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React<br>⚡ Fun fact I am an Engineer!
 
 
 ## 🌐 Socials:
