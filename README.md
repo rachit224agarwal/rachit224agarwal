@@ -96,7 +96,7 @@ I write technical content on [Medium](https://medium.com/@agarwalrachit224) — 
 ## Featured Projects
 
 <details>
-<summary><b>🚀 FreelancePro — AI-Powered Freelancer Management Platform</b></summary>
+<summary><b>FreelancePro — AI-Powered Freelancer Management Platform</b></summary>
 
 <br/>
 
@@ -119,7 +119,7 @@ The platform addresses a real pain point: Indian freelancers juggling WhatsApp f
 ---
 
 <details>
-<summary><b>🎓 College Connect — Student Networking Platform (Patent Filed)</b></summary>
+<summary><b>College Connect — Student Networking Platform (Patent Filed)</b></summary>
 
 <br/>
 
@@ -134,14 +134,14 @@ A production-deployed platform connecting students, alumni, and mentors — buil
 | **Repository** | [github.com/collegeconnect-web](https://github.com/collegeconnect-web) |
 | **Live** | [college-connect-main.vercel.app](https://college-connect-main.vercel.app/) |
 
-Built as a patent-filed platform during my second year — giving students a dedicated space to find mentors, connect with alumni, and collaborate on academic projects beyond the classroom.
+Built as a patent-filed platform during my second year, giving students a dedicated space to find mentors, connect with alumni, and collaborate on academic projects beyond the classroom.
 
 </details>
 
 ---
 
 <details>
-<summary><b>🔍 Deadlock Detective — Interactive OS Deadlock Visualizer</b></summary>
+<summary><b>Deadlock Detective — Interactive OS Deadlock Visualizer</b></summary>
 
 <br/>
 
@@ -199,30 +199,6 @@ Instead of reading dry theory about circular wait and resource contention, users
 
 ---
 
-## DSA & Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/u/agarwalrachit224/">
-    <img src="https://img.shields.io/badge/LeetCode-248%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/100%20Days%20Badge-2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/50%20Days%20Badge-2025-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</p>
-
-<div align="center">
-
-| Platform | Handle | Highlights |
-|---|---|---|
-| LeetCode | [agarwalrachit224](https://leetcode.com/u/agarwalrachit224/) | 248 solved · C++, MySQL, Java · 100 Days Badge 2026 |
-
-**Strong in:** Dynamic Programming · Divide & Conquer · Monotonic Stack · Database · Arrays · Two Pointers
-
-</div>
-
----
-
 ## Technical Writing
 
 <div align="center">
@@ -250,13 +226,6 @@ Instead of reading dry theory about circular wait and resource contention, users
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachit224agarwal&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
 
 ## Contribution Activity
 
@@ -275,8 +244,6 @@ Instead of reading dry theory about circular wait and resource contention, users
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/rachit224agarwal/rachit224agarwal/output/github-snake.svg" />
   </picture>
 </p>
-
-> ⚡ Snake uses your real contribution graph — green dots, pink snake. To activate, add `.github/workflows/snake.yml` from this repo to your profile repository and run the workflow manually once.
 
 ---
 
