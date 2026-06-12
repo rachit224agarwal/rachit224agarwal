@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Rachit%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AWS%20Certified&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rachit%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AWS%20Certified&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+SaaS+on+AWS;MERN+Stack+%7C+Multi-tenant+Architecture;AWS+Certified+Cloud+Practitioner;Patent-holding+student+founder;while+(sunShines+%26%26+moonLights)+keepTrying();" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ec4899&center=true&vCenter=true&width=700&lines=Building+production-grade+SaaS+on+AWS;MERN+Stack+%7C+Multi-tenant+Architecture;AWS+Certified+Cloud+Practitioner;Patent-holding+student+founder;100+Days+LeetCode+Badge+2026;while+(sunShines+%26%26+moonLights)+keepTrying();" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-KIET%20%7C%20AKTU-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-7.8%2F10-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expected-Jun%202027-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-KIET%20%7C%20AKTU-16a34a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-7.8%2F10-15803d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expected-Jun%202027-166534?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Delhi--NCR%2C%20India-4C1D95?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delhi--NCR%2C%20India-14532d?style=flat-square&logo=google-maps&logoColor=white" />
   &nbsp;
   <a href="https://www.linkedin.com/in/rachit-agarwal-a52924282/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachit224agarwal&style=flat-square&color=7C3AED&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=rachit224agarwal&style=flat-square&color=ec4899&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/rachit224agarwal?style=flat-square&color=6D28D9&label=Followers" />
+  <img src="https://img.shields.io/github/followers/rachit224agarwal?style=flat-square&color=16a34a&label=Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Repos-44-5B21B6?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-44-15803d?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ I'm a **third-year Computer Science student** at KIET Group of Institutions buil
 
 Currently building **FreelancePro**, a multi-tenant SaaS platform for Indian freelancers integrating OpenAI GPT-4o for AI-drafted legal contracts, deployed on AWS with EC2, Lambda, S3, DynamoDB, and SES. I co-invented and hold a **published patent** for College Connect, a student networking platform I built and launched to real users.
 
-I write technical content on [Medium](https://medium.com/@agarwalrachit224) — covering topics like Redis internals and Node.js/Express architecture — because I believe understanding the *why* behind tools makes you a better engineer.
+I write technical content on [Medium](https://medium.com/@agarwalrachit224) — covering Redis internals and Node.js/Express architecture — and stay consistent on LeetCode (**248 problems solved**, 100 Days Badge 2026).
 
 **Open To:** SDE Internships · Full-Stack Roles · Open Source Collaboration · Technical Writing
 
@@ -86,7 +86,7 @@ I write technical content on [Medium](https://medium.com/@agarwalrachit224) — 
 | **Frontend** | React.js · Redux · HTML5 · CSS3 · Tailwind CSS · Vite |
 | **Backend** | Node.js · Express.js · REST APIs · JWT Auth |
 | **Databases** | MongoDB (Mongoose) · MySQL |
-| **Cloud & DevOps** | AWS EC2 · S3 · Lambda · DynamoDB · SES · SQS · NGINX · PM2 |
+| **Cloud & Infra** | AWS EC2 · S3 · Lambda · DynamoDB · SES · SQS · NGINX · PM2 |
 | **Tools** | Git · GitHub · Postman · Linux CLI · Figma |
 
 </div>
@@ -96,7 +96,7 @@ I write technical content on [Medium](https://medium.com/@agarwalrachit224) — 
 ## Featured Projects
 
 <details>
-<summary><b>FreelancePro — AI-Powered Freelancer Management Platform</b></summary>
+<summary><b>🚀 FreelancePro — AI-Powered Freelancer Management Platform</b></summary>
 
 <br/>
 
@@ -112,18 +112,18 @@ A full-stack, multi-tenant SaaS platform built for Indian freelancers to manage 
 | **Status** | Active development — Auth, multi-tenancy & CRM completed |
 | **Repository** | [github.com/rachit224agarwal/freelancePro](https://github.com/rachit224agarwal/freelancePro) |
 
-The platform addresses a real pain point: Indian freelancers juggling WhatsApp for contracts, Excel for invoices, and zero legal protection. FreelancePro consolidates all of this — with AI handling the heavy lifting on contract generation, AWS handling the infra, and a clean React frontend keeping it accessible.
+The platform addresses a real pain point: Indian freelancers juggling WhatsApp for contracts, Excel for invoices, and zero legal protection. FreelancePro consolidates all of this — with AI handling contract generation, AWS handling the infra, and a clean React frontend keeping it accessible.
 
 </details>
 
 ---
 
 <details>
-<summary><b>College Connect — Student Networking Platform (Patent Filed)</b></summary>
+<summary><b>🎓 College Connect — Student Networking Platform (Patent Filed)</b></summary>
 
 <br/>
 
-A production-deployed platform connecting students, alumni, and mentors at college level — built and launched with 20+ real users onboarded for testing and feedback.
+A production-deployed platform connecting students, alumni, and mentors — built and launched with 20+ real users onboarded for testing and feedback.
 
 | Attribute | Detail |
 |---|---|
@@ -131,29 +131,27 @@ A production-deployed platform connecting students, alumni, and mentors at colle
 | **Users** | 20+ college students onboarded for real-world testing |
 | **Patent** | App No: 202511004494 A (2025) |
 | **Features** | Profile management · Peer discovery · Mentor-alumni connections · Role-based access |
-| **Deployment** | Vercel |
 | **Repository** | [github.com/collegeconnect-web](https://github.com/collegeconnect-web) |
 | **Live** | [college-connect-main.vercel.app](https://college-connect-main.vercel.app/) |
 
-College Connect was built as a patent-filed platform during my second year — the idea: give students a dedicated space to find mentors, connect with alumni, and collaborate on academic projects beyond the classroom walls.
+Built as a patent-filed platform during my second year — giving students a dedicated space to find mentors, connect with alumni, and collaborate on academic projects beyond the classroom.
 
 </details>
 
 ---
 
 <details>
-<summary><b>Deadlock Detective — Interactive OS Deadlock Visualizer</b></summary>
+<summary><b>🔍 Deadlock Detective — Interactive OS Deadlock Visualizer</b></summary>
 
 <br/>
 
-An interactive web app that visualizes how deadlocks form in Operating Systems — born in the back row of a 2nd-year OS lecture, shipped in 3rd year.
+An interactive web app that visualizes how deadlocks form in Operating Systems — born in a 2nd-year OS lecture, shipped in 3rd year.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | React · ReactFlow · Node.js · Express · TailwindCSS · Vite |
 | **Algorithm** | DFS-based cycle detection on Wait-For Graph |
 | **Features** | Dynamic process/resource graphs · Real-time deadlock detection · Game mode (60s challenge) · OS theory docs |
-| **Impact** | Educational tool for OS/DBMS students and viva prep |
 | **Repository** | [github.com/rachit224agarwal/deadlock-detective](https://github.com/rachit224agarwal/deadlock-detective) |
 | **Live** | [deadlock-detective.vercel.app](https://deadlock-detective.vercel.app/) |
 
@@ -192,7 +190,7 @@ Instead of reading dry theory about circular wait and resource contention, users
 
 <div align="center">
 
-| Provider | Certification | Date |
+| Provider | Certification | Issued |
 |---|---|---|
 | Amazon Web Services | AWS Certified Cloud Practitioner | Mar 2026 |
 | MongoDB University | Introduction to MongoDB | Jan 2025 |
@@ -201,16 +199,38 @@ Instead of reading dry theory about circular wait and resource contention, users
 
 ---
 
-## Technical Writing
+## DSA & Problem Solving
 
-I write about backend systems, databases, and things I wish someone had explained to me clearly.
+<p align="center">
+  <a href="https://leetcode.com/u/agarwalrachit224/">
+    <img src="https://img.shields.io/badge/LeetCode-248%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/100%20Days%20Badge-2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/50%20Days%20Badge-2025-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
+
+<div align="center">
+
+| Platform | Handle | Highlights |
+|---|---|---|
+| LeetCode | [agarwalrachit224](https://leetcode.com/u/agarwalrachit224/) | 248 solved · C++, MySQL, Java · 100 Days Badge 2026 |
+
+**Strong in:** Dynamic Programming · Divide & Conquer · Monotonic Stack · Database · Arrays · Two Pointers
+
+</div>
+
+---
+
+## Technical Writing
 
 <div align="center">
 
 | Article | Topic |
 |---|---|
-| [Redis: In-Memory Database Explained](https://medium.com/@agarwalrachit224/redis-in-memory-database-explained-450355535cb0) | Caching, in-memory storage, and how Redis actually works |
-| [Basic Backend Docs — Node.js & Express](https://medium.com/@agarwalrachit224/basic-backend-docs-node-js-express-b53b476be986) | Fundamentals of building backend systems with Node and Express |
+| [Redis: In-Memory Database Explained](https://medium.com/@agarwalrachit224/redis-in-memory-database-explained-450355535cb0) | How Redis works as a caching and in-memory storage engine |
+| [Basic Backend Docs — Node.js & Express](https://medium.com/@agarwalrachit224/basic-backend-docs-node-js-express-b53b476be986) | Building backend systems with Node.js and Express from scratch |
 
 </div>
 
@@ -219,13 +239,13 @@ I write about backend systems, databases, and things I wish someone had explaine
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachit224agarwal&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachit224agarwal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=ec4899&title_color=22c55e&text_color=ffffff" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit224agarwal&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit224agarwal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=22c55e&text_color=ffffff" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rachit224agarwal&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=rachit224agarwal&theme=dark&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff" />
 </p>
 
 ---
@@ -233,7 +253,7 @@ I write about backend systems, databases, and things I wish someone had explaine
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachit224agarwal&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rachit224agarwal&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
@@ -241,7 +261,7 @@ I write about backend systems, databases, and things I wish someone had explaine
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachit224agarwal&theme=react-dark&bg_color=0d0d0d&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachit224agarwal&theme=react-dark&bg_color=0d0d0d&color=ec4899&line=22c55e&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -256,6 +276,8 @@ I write about backend systems, databases, and things I wish someone had explaine
   </picture>
 </p>
 
+> ⚡ Snake uses your real contribution graph — green dots, pink snake. To activate, add `.github/workflows/snake.yml` from this repo to your profile repository and run the workflow manually once.
+
 ---
 
 ## Current Focus
@@ -265,14 +287,12 @@ currently:
   learning:
     - Advanced AWS architecture patterns
     - System design for distributed systems
-    - TypeScript at scale
+    - Redis caching layers in production
   building:
-    - FreelancePro — multi-tenant SaaS with AI contract generation
-    - Open to collabs on developer tools and EdTech
+    - FreelancePro — multi-tenant SaaS with AI contract generation (Mar 2026 – Present)
   exploring:
     - OpenAI API integrations
-    - Redis for caching layers
-    - NGINX + PM2 production patterns
+    - NGINX + PM2 production deployment patterns
   open_to:
     - SDE internships (Summer / Winter 2026)
     - Full-stack freelance projects
@@ -301,6 +321,10 @@ currently:
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://leetcode.com/u/agarwalrachit224/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
   <a href="https://medium.com/@agarwalrachit224">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
@@ -313,5 +337,5 @@ currently:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
