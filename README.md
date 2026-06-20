@@ -43,7 +43,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/rachit224agarwal?style=flat-square&color=16a34a&label=Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Repos-44-15803d?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-49-15803d?style=flat-square&logo=github" />
 </p>
 
 ---
